@@ -1,0 +1,59 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header div {
+    background-color: rgba(241, 250, 112, 0.452);
+    color: rgba(46, 112, 151, 0.781);
+}
+
+header img {
+    width: 300;
+}
+
+main {
+    color: 333;
+    margin:auto;
+    width: 50%; 
+}
+
+article{
+   
+}
+
+article img{
+    width: 100%;
+}
+ 
+article figure figcaption{
+    text-align: center;
+}
+
+article h1 {
+    text-align: center;
+}
+
+.featured p{
+    color:rgb(165, 124, 47);
+
+}
+
+ a{
+    color: rgb(57, 129, 129);
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+
+
+
+
+hr {
+    border-color: rgba(100, 192, 245, 0.212);
+}
