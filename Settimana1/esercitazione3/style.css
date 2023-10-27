@@ -16,14 +16,11 @@ header img {
 }
 
 main {
-    color: 333;
+    color: #333;
     margin:auto;
     width: 50%; 
 }
 
-article{
-   
-}
 
 article img{
     width: 100%;
@@ -49,9 +46,6 @@ article h1 {
 h2{
     font-size: 1.5em;
 }
-
-
-
 
 
 hr {
