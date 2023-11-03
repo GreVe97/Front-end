@@ -224,4 +224,11 @@ console.log(characters);
 */
 let numeroCasuale= Math.floor(Math.random()*(starWarsCharacters.length));
 
-console.log("Nome: "+starWarsCharacters[numeroCasuale].name+"\nGenere: "+starWarsCharacters[numeroCasuale].gender+"\nAnno di nascita: "+starWarsCharacters[numeroCasuale].birth_year+"\nAltezza: "+starWarsCharacters[numeroCasuale].height+"\nColore dei capelli: "+starWarsCharacters[numeroCasuale].hair_color+"\nColore degli occhi: "+starWarsCharacters[numeroCasuale].eyeColor+"\nMassa: "+starWarsCharacters[numeroCasuale].mass+"\nColore carnagione: "+starWarsCharacters[numeroCasuale].skin_color);
+console.log("Nome: "+starWarsCharacters[numeroCasuale].name+
+"\nGenere: "+starWarsCharacters[numeroCasuale].gender+
+"\nAnno di nascita: "+starWarsCharacters[numeroCasuale].birth_year+
+"\nAltezza: "+starWarsCharacters[numeroCasuale].height+
+"\nColore dei capelli: "+starWarsCharacters[numeroCasuale].hair_color+
+"\nColore degli occhi: "+starWarsCharacters[numeroCasuale].eyeColor+
+"\nMassa: "+starWarsCharacters[numeroCasuale].mass+
+"\nColore carnagione: "+starWarsCharacters[numeroCasuale].skin_color);
